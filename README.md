@@ -18,3 +18,5 @@ These are languages I know and mostly used!
 
 **C++**
 6%
+
+Discord: epic#0007 / 466660927698108416
